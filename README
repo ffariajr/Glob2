@@ -1,0 +1,37 @@
+Globulation 2
+
+http://www.globulation2.org/
+
+
+This game is still in heavy development, so consider that:
+- the graphics are not definitive,
+- there is a lot of debug output,
+- it's slow,
+- it crashes sometimes.
+
+If you get a crash, submit a bug report with the last lines of the output as
+well as the log files (in ${HOME}/.glob2/log) as attachments.
+Please use Savannah (http://savannah.gnu.org/projects/glob2) for bug reports.
+
+If you got the source from CVS, read README.cvs first.
+
+
+GNU and UNIX
+------------
+
+First, configure the program by running the configure script.
+Then, run 'make' to build the package.
+Finally, run 'make install' to install it.
+You can read the INSTALL file for more information about these steps.
+
+
+Microsoft Windows
+-----------------
+
+To build the program, use glob2.dsw with MSDEV.
+
+
+Have fun,
+
+The Globulation 2 Team
+http://www.globulation2.org/
