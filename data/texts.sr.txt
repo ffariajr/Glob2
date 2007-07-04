@@ -1,0 +1,642 @@
+[%0 has been deconnected of the game]
+%0 би искључен из игре.
+[%0 has left the game]
+%0 напусти игру.
+[%0's team unit got converted to your team]
+Противничка јединица је пребегла код нас %0
+[Add AI]
+Додај ВИ
+[AI]
+ВИ
+[ai]
+ВИ
+[AICastor]
+ВИКастор
+[AINicowar]
+Nicowar
+[AINone]
+НикогоВИћ
+[AINumbi]
+ГлупаВИ
+[AIReachToInfinity]
+ReachToInfinity
+[AIToubib]
+AIToubib
+[AIWarrush]
+AIWarrush
+[Alga]
+Алге
+[alliances]
+Савези
+[and]
+и
+[are dying hungry]
+умиру од глади
+[are hungry]
+су гладне
+[are ok]
+у реду
+[are wonded]
+су рањене
+[armor]
+Оклоп
+[At. speed]
+Брзина напада
+[At. strength]
+Снага напада
+[attack building explanation 2]
+
+[attack building explanation]
+Касарна служи за ...
+[attack building]
+Касарна
+[attack speed]
+Брзина напада
+[Attack]
+Напад
+[audio]
+Звук
+[auto save]
+Сними аутоматски
+[available lan games]
+Доступне локалне мрежне игре
+[awaiting players]
+Чекам играче
+[away:]
+одсутан:
+[bad error in connection system]
+Грешка у систему за повезивање
+[beach size]
+Величина плажа
+[Build]
+Гради
+[Building name]
+Име зграде
+[Building short explanation 2]
+
+[Building short explanation]
+Кратко име грађевине
+[building site]
+Градилиште
+[Buildings]
+Зграде
+[Bullets]
+Муниција
+[campaign]
+Кампања
+[cancel destroy]
+Заустави уништење
+[cancel repair]
+Одложи поправку
+[cancel upgrade]
+Одложи дограду
+[Cancel]
+Поништи
+[carry]
+Пренос :
+[checksum sent]
+Послата је контролна сума ...
+[Cherry]
+Вишње
+[choose game]
+Избор игре
+[choose map]
+Избор мапе
+[clearing flag explanation 2]
+
+[clearing flag explanation]
+Застава за чишћење служи за чишћење
+[clearing flag]
+Застава чишћења
+[Clearing:]
+Чишћење:
+[close]
+Затвори
+[closed]
+Затворен
+[compile]
+Преведи скрипт
+[connect]
+Прикључи се
+[connected to all players]
+Прикључен на све играче
+[connected to server]
+Прикључен на сервер
+[connecting to all players]
+Прикључење са свим играчима
+[connecting to]
+Повезивање са: 
+[Continue playing]
+Настави игру
+[Corn]
+Жито
+[create game]
+Направи игру
+[create map]
+Направи мапу
+[credits]
+Заслуге
+[current speed]
+Тренутна брзина
+[custom game]
+Произвољна игра
+[damage]
+Штета
+[dblbuff]
+Двоструко баферисање
+[default terrain]
+Подразумевано земљиште
+[defense building explanation 2]
+
+[defense building explanation]
+Стражара служи за осматрање.
+[defense building]
+Стражара
+[Defense]
+Одбрана
+[destroy]
+Уништи
+[Disconnect]
+Искључи се
+[display]
+Екран
+[don't carry anything]
+Не носи ништа
+[download finished]
+Преузимање је готово
+[downloaded at]
+Преузето са
+[editor]
+Уредник
+[Enter your nickname :]
+Унесите надимак :
+[Enter your password :]
+Унесите лозинку :
+[exploration flag explanation 2]
+
+[exploration flag explanation]
+Истраживачка застава служи за истраживање.
+[exploration flag]
+Истраживачка застава
+[Explorer]
+Извиђач
+[explorers]
+Извиђачи
+[food building explanation 2]
+
+[food building explanation]
+Зграда у којој се скупља храна.
+[food building]
+Гостионица
+[food left]
+Преостало хране
+[food]
+Храна
+[forbidden area]
+
+[Free]
+слободних
+[free]
+Слободно
+[free]
+слободно
+[from:]
+од:
+[fullscreen]
+Цео екран
+[game full]
+Потпуна игра
+[game speed]
+Брзина игре
+[goto main menu]
+Назад на главни избор
+[grass]
+Трава
+[handmade map]
+Ручно направљена мапа
+[Happyness]
+Задовољство
+[Harvest]
+Жањи
+[has joined]
+се придружио
+[has quit]
+је отишао
+[heal]
+Здравље
+[health building explanation 2]
+
+[health building explanation]
+Болница служи за лечење
+[health building]
+Болница
+[host]
+Рачунар
+[hp]
+Живот
+[hp]
+Здравље
+[hungry]
+гладних
+[hwaccel]
+Хардверско убрзање
+[In way]
+У путу
+[inside]
+Унутра
+[islands size]
+Величина острва
+[islands terrain]
+Острвско земљиште
+[join a game]
+Придружи се игри
+[join]
+Придружи се
+[lan]
+Игра у локалној мрежи
+[language-code]
+sr
+[language-tr]
+Језик
+[language]
+Српски
+[large]
+Велика
+[level]
+Ниво
+[levels]
+Нивои
+[load game]
+Учитај игру
+[load]
+Учитај
+[loading glob2]
+Учитавам Глобулацију 2
+[login]
+Пријава
+[Lost : %0 has more prestige than you]
+Пораз : %0 је остварио већи престиж од Вас.
+[Lost : your colony is dead]
+Пораз : Ваша колонија је мртва
+[lowquality]
+Низак квалитет
+[Map name: %0]
+Име мапе: %0.
+[map size x]
+Ширина мапе
+[map size y]
+Висина мапе
+[mapGenerationDescriptor Methodes]
+Начин случајног генерисања мапе
+[market explanation 2]
+
+[market explanation]
+Пијаца служи за
+[market]
+Пијаца
+[medium]
+Средња
+[Min required level:]
+Најмањи потребни ниво:
+[Music volume]
+Јачина (музика)
+[network latency]
+Мрежно кашњење
+[new]
+Нова
+[nick taken]
+We are very sorry but the name you chose is already taken on freenode, you will only be able to talk through YOG
+[No]
+Не
+[not connected]
+Није прикључен
+[not ready]
+није спреман
+[number of players: %0]
+Број присутних играча: %0.
+[number of teams: %0]
+Број екипа: %0.
+[number of teams]
+Број тимова
+[of which]
+од чега
+[ok]
+У реду
+[On the spot]
+На лицу места
+[one player]
+Један играч.
+[open]
+отвори
+[options]
+Избори
+[Orange]
+Наранџе
+[Papyrus]
+Папирус
+[Paused]
+Пауза
+[percent]
+  процен(а)(та)
+[player name]
+Име играча
+[player]
+Играч
+[please wait]
+Молим сачекајте
+[presence request sent]
+Присуство је пријављено ...
+[Prestige]
+Престиж
+[Prune]
+Шљиве
+[quit the game]
+Напусти игру
+[quit]
+Излаз
+[random terrain]
+Случајно земљиште
+[range]
+Домет
+[ratios]
+Односи
+[Register a new YOG user with password]
+Пријави новог корисника на YOG са лозинком. (није шифровано)
+[Remember YOG password localy]
+Запамти лозинку у локалу (није шифровано)
+[repair]
+Поправи
+[ressources]
+Извори
+[return to game]
+Повратак на игру
+[sand]
+Песак
+[save before quit?]
+Сними пре изласка?
+[save game]
+Сними игру
+[Save]
+Сними
+[science building explanation 2]
+
+[science building explanation]
+Школа служи за учење нових вештина.
+[science building]
+Школа
+[seeking a job]
+траже посао
+[seeking]
+у потрази
+[session request sent]
+Послат је захтев за сесију ...
+[settings]
+Подешавања
+[small]
+Мала
+[smoothing]
+Умекшавање
+[speed]
+Брзина
+[Start]
+Почетак
+[STARTING GAME ...]
+Игра почиње...
+[starving]
+умирућих од глади
+[stat]
+Статистика
+[state]
+стање
+[Statistics]
+Статистика
+[Still (i)]
+Још
+[still (w)]
+Чекање
+[still one unit working]
+Једна јединица у послу
+[Still one]
+Још једна
+[stone wall explanation 2]
+
+[stone wall explanation]
+Камени зид служи за...
+[stone wall]
+Камени зид
+[Stone]
+Камен
+[svr hostname]
+Име сервера
+[swarm building explanation 2]
+
+[swarm building explanation]
+Зграда за ројење.
+[swarm building]
+Рој
+[Swim]
+Пливај
+[swimspeed building explanation 2]
+
+[swimspeed building explanation]
+Пливалиште служи за...
+[swimspeed building]
+Пливалиште
+[teams]
+ екипа
+[the attack building is finished]
+Касарна је завршена
+[the attack building is under attack]
+Касарна је нападнута
+[the building is finished]
+Зграда је завршена
+[the building is under attack]
+Зграда је нападнута
+[the clearing flag is finished]
+?? Застава за чишћење је завршена ??
+[the clearing flag is under attack]
+?? Застава за чишћење је нападута ??
+[the defense building is under attack]
+Стражара је нападнута
+[the exploration flag is finished]
+?? Истраживачка застава је завршена ??
+[the exploration flag is under attack]
+?? Истраживачка застава је нападнута ??
+[the food building is finished]
+Кантина је завршена
+[the food building is under attack]
+Кантина је нападнута
+[The game has not been finished]
+Игра није завршена
+[the games]
+Игре
+[the health building is finished]
+Болница је завршена
+[the health building is under attack]
+Болница је нападнута
+[the maps]
+Мапе
+[the market is finished]
+Пијаца је завршена
+[the market is under attack]
+Пијаца је нападнута
+[The player %0 has joined YOG]
+Играч %0 се пријавио на YOG
+[The player %0 has left YOG]
+Играч %0 је напустио YOG.
+[the science building is finished]
+Школа је завршена
+[the science building is under attack]
+Школа је нападнута
+[the stone wall is finished]
+Камени зид је завршен
+[the stone wall is under attack]
+Камени зид је нападнут
+[the swarm is finished]
+Ројење је завршено
+[the swarm is under attack]
+Рој је нападнут
+[the swimspeed building is finished]
+Пливалиште је завршено
+[the swimspeed building is under attack]
+Пливалиште је нападнуто
+[the tower building is finished]
+Стражара је завршена
+[the walkspeed building is finished]
+Стадион је завршен
+[the walkspeed building is under attack]
+Стадион је нападнут
+[the war flag is finished]
+?? Ратна застава је завршена ??
+[the war flag is under attack]
+?? Ратна застава је нападнута ??
+[to:]
+ка:
+[Total prestige reached]
+Укупан постигнут престиж
+[Total]
+Укупно
+[tutorial]
+Уџбеник
+[Uncontrolled]
+Неконтролисан
+[uniform terrain]
+Једнообразно земљиште
+[Unit type]
+Врста јединице
+[units type]
+Врсте јединица
+[units working]
+ јединица у послу
+[Units]
+Јединице
+[update list]
+Обнови списак
+[upgrade]
+Догради
+[username]
+Корисничко име
+[Version]
+Верзија
+[wait destroy]
+Одложи уништење
+[waiting for %0]
+Чека се на %0
+[Walk]
+Ходај
+[walkspeed building explanation 2]
+
+[walkspeed building explanation]
+Стадион служи за...
+[walkspeed building]
+Стадион
+[war flag explanation 2]
+
+[war flag explanation]
+Ратна застава служи за ратовање.
+[war flag]
+Ратна застава
+[Warning, you need to reboot the game for changes to take effect]
+Упозорење: морате да поново покренете игру да би измене биле уважене.
+[Warrior]
+Ратник
+[warriors]
+Ратници
+[was AI]
+је био ВИ
+[was]
+је био
+[water]
+Вода
+[Won : you defeated your opponents]
+Победа : Савладали сте противике.
+[Won : you have the most prestige]
+Победа: Остварили сте највећи могући престиж.
+[Won : your ally %0 has the most prestige]
+Победа : Ваш савезник %0 је достигао највећи могући престиж.
+[Wood]
+Дрво
+[Worker]
+Радник
+[workers]
+Радници
+[workers]
+Радници
+[working]
+Ради се
+[wounded]
+рањених
+[Yes]
+Да
+[YESTS_BAD]
+Грешка при прикључењу.
+[YESTS_CONNECTING]
+Повезивање са YOG мета-сервером...
+[YESTS_CONNECTION_LOST]
+Веза са YOG је прекинута.
+[YESTS_CONNECTION_REFUSED_ALREADY_AUTHENTICATED]
+YOG мета-сервер је одбио везу јер се десила грешка при повезивању. Покушајте поново да се повежете за 45 секунди.
+[YESTS_CONNECTION_REFUSED_ALREADY_PASSWORD]
+YOG мета-сервер је одбио везу јер је ово корисничко име већ пријављено, али са лозинком. Ако корисничко име припада Вама, искључите опцију "Региструј новог корисника са лозинком"
+[YESTS_CONNECTION_REFUSED_BAD_PASSWORD]
+YOG мета-сервер је одбио везу јер лозинка коју сте уписали није исправна.
+[YESTS_CONNECTION_REFUSED_BAD_PASSWORD_NON_ZERO]
+YOG мета-сервер је одбио везу јер ваше корисничко име нема одређену лозинку. Морате регистровати ваше име и изабрати лозинку.
+[YESTS_CONNECTION_REFUSED_NOT_CONNECTED_YET]
+YOG мета-сервер је одбио везу јер се десила грешка при повезивању: нисте били повезани током целог процеса пријаве. Молимо Вас да пријавите ову грешку.
+[YESTS_CONNECTION_REFUSED_PROTOCOL_TOO_OLD]
+YOG мета-сервер је прекинуо везу јер је ваше издање Глобулације2 престаро.
+[YESTS_CONNECTION_REFUSED_UNEXPLAINED]
+YOG мета-сервер је одбио везу али није назначио разлог.
+[YESTS_CONNECTION_REFUSED_USERNAME_ALLREADY_USED]
+YOG мета-сервер је одбио везу јер корисничко име које сте изабрали неко већ користи.
+[YESTS_CREATED]
+Подсистем за повезивање је спреман за контакт са YOG метасервером.
+[YESTS_DECONNECTING]
+Искључивање са YOG мета-сервера
+[YESTS_UNABLE_TO_CONNECT]
+Грешка при прикључењу. Изгледа да YOG сервер није покренут.
+[YESTS_YOG_KILLED]
+Администратор је управо искључио YOG мета-сервер.
+[yog-chat]
+#yog-sr
+[yog]
+Игра преко мреже (Ysagoon)
+[YOG_HELP]
+Систем за помоћ има две наредбе: "msg" и "away". Куцајте: "/help <команда>" да бисте добили више информација о некој од њих.
+[YOG_HELP_AWAY]
+Команда "/away (<порука>)" омогућава да обавестите друге YOG кориснике да привремено нисте ту. На пример: "/away Једем пљескавицу и вратићу се за 1 сат". Команда може да се скрати на "/a".
+[YOG_HELP_MSG]
+Команда "/msg <име> <порука>" шаље приватну поруку. На пример: "/msg Пера Де си Перо, шта има?". Може се скратити на "/m".
+[You are no more marked as away]
+Више нисте на одсуству.
+[You are now marked as away]
+Од сада сте на одсуству.
+[you have lost]
+Изгубили сте игру.
+[you have won]
+Добили сте игру.
+[Your %0 are under attack]
+Нападнута јединица: %0
+[Your unit got converted to %0's team]
+Ваша јединица је пребегла %0
