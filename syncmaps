@@ -1,0 +1,3 @@
+#!/bin/sh
+rsync -rzv yog.globulation2.org::glob2maps-2007 maps
+rsync -rzv yog.globulation2.org::glob2campaigns-2007 campaigns
