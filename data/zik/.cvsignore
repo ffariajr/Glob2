@@ -1,0 +1,4 @@
+*.ogg
+.DS_Store
+Makefile
+Makefile.in
