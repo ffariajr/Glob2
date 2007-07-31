@@ -1,0 +1,10 @@
+import os
+
+Import("env")
+Import("PackTar")
+
+for file in os.listdir("."):
+    if file.find(".h") != -1:
+        PackTar(env["TARFILE"], file)
+
+PackTar(env["TARFILE"], "SConscript")

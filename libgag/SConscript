@@ -1,0 +1,5 @@
+Import("env")
+Import("PackTar")
+PackTar(env["TARFILE"], "SConscript")
+SConscript("src/SConscript")
+SConscript("include/SConscript")
