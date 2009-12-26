@@ -1,0 +1,1218 @@
+[%0 has left the game]
+%0 ha abandonado el juego.
+[%0 level %1]
+%0 Nivel %1
+[%0 units can't access building]
+%0 unidades sin acceso
+[%0 units can't access flag]
+
+[%0 units can't access fruit]
+%0 unidades sin acceso
+[%0 units can't access resource]
+%0 unidades sin acceso
+[%0 units not available]
+%0 unidades no disponibles
+[%0 units too far from building]
+%0 unidades demasiado lejos del edificio
+[%0 units too far from flag]
+
+[%0 units too far from fruit]
+%0 unidades demasiado lejos de las frutas
+[%0 units too far from resource]
+%0 unidades demasiado lejos de los recursos
+[%0 units too low level]
+%0 unidades sin el nivel necesario
+[%0% Uploaded]
+%0% cargado
+[%0's game]
+Partida de %0
+[%0's team unit got converted to your team]
+La unidad de %0 fué convertida a tu equipo
+[abreaviation explanation A]
+A: Aliados
+[abreaviation explanation C]
+C: Enviar mensajes a
+[abreaviation explanation fV]
+fV: Mostrar vista de las posadas (para robar unidades)
+[abreaviation explanation mV]
+mV: Mostrar vista de los mercados (para intercambiar frutas)
+[abreaviation explanation V]
+V: Mostrar vista de todos los edificios
+[add map]
+Añadir Mapa
+[add shortcut]
+Añadir Atajo
+[Add]
+Añadir
+[AI Descriptions]
+Descripción de la IA
+[AI]
+IA
+[ai]
+IA
+[AICastor-Description]
+Castor - Juega de forma conservadora y es muy efectiva en mapas con pocos recursos. Dificultad Media.
+[AICastor]
+Castor
+[AINicowar-Description]
+Nicowar - Juega agresivamente, crece muy rápido y envía muchas tropas contra sus oponentes. Dificultad Alta.
+[AINicowar]
+Nicowar
+[AINone-Description]
+Ninguna - No hace nada.
+[AINone]
+Ninguna
+[AINumbi-Description]
+Numbi - Se expande poco. Dificultad Baja.
+[AINumbi]
+Numbi
+[AIReachToInfinity-Description]
+ReachToInfinity - No ataca, pero construye bases monstruosas y convierte agresivamente las unidades enemigas. Dificultad Baja.
+[AIReachToInfinity]
+ReachToInfinity
+[AIToubib-Description]
+Toubib
+[AIToubib]
+Toubib
+[AIWarrush-Description]
+Warrush - Ataca agresivamente y con rapidez, a veces incluso presionando al jugador a los bordes del mapa. Dificultad Media.
+[AIWarrush]
+Warrush
+[Alga]
+Algas
+[algae]
+algas
+[alliances]
+Alianzas
+[alt %0]
+alt-%0
+[and]
+y
+[any explorer]
+cualquier explorador
+[are dying hungry]
+muriendo de hambre
+[are hungry]
+con hambre
+[are ok]
+bien
+[are wonded]
+heridos
+[armor]
+Resistencia
+[assigned]
+Asignados
+[At. speed]
+Velocidad de ataque
+[At. strength]
+Fuerza de ataque
+[Attack]
+Ataque
+[audio]
+Sonido
+[auto save]
+Auto guardar
+[available lan games]
+Partidas locales disponibles
+[awaiting players]
+Esperando jugadores
+[away:]
+fuera:
+[Back]
+Atrás
+[backspace]
+barra espaciadora
+[barracks explanation 2]
+de ataque de tus guerreros
+[barracks explanation]
+Mejora la fuerza
+[barracks]
+Cuarteles
+[beach size]
+tamaño de la playa
+[Blocked Players]
+Jugadores bloqueados
+[break]
+romper
+[briefing]
+Información
+[build %0 level %1]
+Construyendo %0 Nivel %1
+[Build]
+Construcción
+[Building Defaults]
+Por defecto
+[building settings]
+Edificios
+[building site]
+sitio de construcción
+[Building Tool Box Explanation]
+
+[Building Tool Line Explanation]
+Ctrl + Arrastrar = Línea
+[Buildings]
+Edificios
+[Bullets]
+Proyectiles
+[campaign editor]
+Editor de Campañas
+[campaign]
+Campaña
+[Can't connect, can't find host]
+No se pudo conectar, no se puede encontrar el anfitrión
+[Can't host game, port %0 in use]
+No se pudo crear partida, el puerto %0 está en uso
+[Can't join game, game doesn't exist]
+No se pudo entrar, la partida no existe.
+[Can't join game, game has started]
+No se pudo entrar, la partida ya ha empezado.
+[Can't join game, game is full]
+No se pudo entrar, la partida está llena.
+[cancel destroy]
+Cancelar destrucción
+[cancel repair]
+Cancelar reparación
+[cancel upgrade]
+Cancelar mejora
+[Cancel]
+Cancelar
+[caps lock]
+Bloq Mayús
+[carry]
+Transportando:
+[Change Area Name]
+Cambiar nombre del área
+[Cherry]
+Cereza
+[choose campaign]
+Elige una campaña
+[choose game]
+Elige una partida
+[choose map]
+Elige un mapa
+[clear area]
+Limpiar área
+[Clearing:]
+Limpiando:
+[clearingflag explanation 2]
+la zona seleccionada
+[clearingflag explanation]
+Limpia de recursos
+[clearingflag]
+Bandera de Limpieza
+[closed]
+Cerrado
+[combined vision]
+
+[compile]
+Compilar script
+[compose]
+componer
+[Computing Fertility]
+Procesando Fertilidad
+[concrete islands terrain]
+Islas en mosaico
+[connect]
+Conectar
+[connecting to game]
+Conectando a la partida
+[connecting to]
+Conectando a
+[Construction Site Defaults]
+Construcción Edificios
+[Continue playing]
+Continuar jugando
+[control %0]
+control-%0
+[Corn]
+Trigo
+[crater density]
+Número de cráteres
+[crater lakes terrain]
+Cráteres inundados
+[create game]
+Crear partida
+[create map]
+Crear mapa
+[credits]
+Créditos
+[ctrl - line]
+Ctrl - Línea
+[current speed]
+Velocidad
+[custom game]
+Partida personalizada
+[customcur]
+Cursor personalizado
+[damage]
+Daño
+[Damaged Map]
+Mapa de Daño
+[decrease units working]
+Disminuir Unidades Trabajando
+[Defeat Your Oppenents]
+Elimina a tus Oponentes
+[defencetower explanation 2]
+o edificios cercanos
+[defencetower explanation]
+Ataca a las unidades
+[defencetower]
+Torre de Defensa
+[Defense Map]
+Mapa de Defensa
+[Defense]
+Defensa
+[Delete game]
+Eliminar partida
+[delete]
+Eliminar
+[desert]
+desierto
+[destroy building]
+Destruir el Edificio Seleccionado
+[destroy]
+Destruir
+[display]
+Mostrar
+[do nothing]
+Ocioso
+[don't carry anything]
+Sin transportar nada
+[down]
+abajo
+[Download Map]
+Descargar Mapa
+[Download Maps]
+Descargar Mapas
+[downloaded %0]
+descargad %0
+[downloading map]
+Descargando Mapa
+[edit map]
+Editar Mapa
+[editing map]
+Editando Mapa
+[editor shortcuts]
+Editor de Atajos
+[editor]
+Editor
+[end]
+fin
+[Enter your nickname :]
+Introduzca su sobrenombre:
+[Enter your password :]
+Introduzca su password:
+[enter]
+entrar
+[equals]
+iguales
+[escape]
+escapar
+[explorationflag explanation 2]
+
+[explorationflag explanation]
+Atrae a los exploradores
+[explorationflag]
+Bandera de Exploración
+[Explorer Ratio]
+Radio de Exploración
+[Explorer]
+Explorador
+[explorers]
+exploradores
+[extra islands]
+Islas desiertas
+[f10]
+f10
+[f11]
+f11
+[f12]
+f12
+[f13]
+f13
+[f14]
+f14
+[f15]
+f15
+[f1]
+f1
+[f2]
+f2
+[f3]
+f3
+[f4]
+f4
+[f5]
+f5
+[f6]
+f6
+[f7]
+f7
+[f8]
+f8
+[f9]
+f9
+[Fertility Map]
+Mapa de Áreas Fértiles
+[Flag Defaults]
+Banderas
+[flag settings explanation]
+Radio por defecto de la bandera
+[fog of war]
+
+[food]
+Alimento
+[forbidden area]
+Área prohibida
+[Free]
+Aceptar
+[free]
+libre
+[free]
+libres
+[from:]
+desde:
+[fruit]
+frutas
+[fullscreen]
+Pantalla completa
+[game full]
+Game full
+[game shortcuts]
+Atajos
+[Game]
+Juego
+[general settings]
+General
+[go to event]
+Ir al Evento
+[go to home]
+Ir al Menú Principal
+[goto main menu]
+Volver al menú principal
+[grass]
+Pasto
+[ground attack]
+ataque cuerpo a cuerpo
+[guard area]
+Proteger área
+[GUIMapPreview text 0]
+Primero elija
+[GUIMapPreview text 1]
+un mapa
+[handmade map]
+Mapa personalizado
+[Happyness]
+Felicidad
+[hard pause]
+Pausa Larga
+[Harvest]
+Cosechar
+[high priority]
+alta
+[hints]
+Puntos de daño
+[home]
+casa
+[hospital explanation 2]
+
+[hospital explanation]
+Sana a tus unidades
+[hospital]
+Hospital
+[host]
+Iniciar partida
+[hp]
+HP
+[hp]
+Puntos de daño
+[Human]
+Humano
+[human]
+humano
+[hungry]
+hambriento
+[hungryness]
+Hambruna
+[In way]
+En camino
+[increase units working]
+Aumentar Número de Trabajadores
+[inn explanation 2]
+
+[inn explanation]
+Alimenta a tus unidades
+[inn]
+Posada
+[insert]
+insertar
+[inside]
+Unidades dentro
+[islands size]
+tamaño de la isla
+[islands terrain]
+Islas
+[isles terrain]
+Islas
+[iterate selection]
+Cambiar a la Siguiente Selección
+[jobs]
+trabajo
+[join a game]
+Entrar a una partida
+[join]
+Entrar
+[keyboard settings]
+Teclado
+[kick]
+Expulsar
+[lan]
+Partida en Red Local
+[language incomplete]
+Español
+[language-code]
+es
+[language-tr]
+Idioma
+[language]
+Español
+[Leave Game]
+Abandonar Partida
+[left meta]
+abandonar meta
+[left super]
+quitar tecla de windows
+[left]
+quitar
+[Leo: nur ein erster Test]
+prueba
+[level]
+Nivel
+[levels]
+Atributos
+[load campaign]
+Cargar Campaña
+[load game]
+Cargar partida
+[load map]
+Cargar Mapa
+[load replay]
+
+[load script]
+Cargar Script
+[load]
+Cargar
+[loading map list]
+Cargando Lista de Mapas...
+[Lobby]
+Sala
+[login]
+Conectar
+[look around]
+
+[Lost : %0 has more prestige than you]
+Has perdido: %0 tiene más prestigio que tú
+[Lost : your colony is dead]
+Has perdido: tu colonia está muerta
+[low priority]
+baja
+[lowquality]
+Calidad baja
+[Magic At. Air]
+Daño aéreo.
+[Magic At. Ground]
+Daño cuerpo a cuerpo.
+[map description]
+Descripción
+[Map Discovered]
+Mapa Descubierto
+[Map download failure: lost connection]
+La descarga del mapa falló: Has perdido la conexión con YOG.
+[Map name: %0]
+Nombre del mapa: %0.
+[map name]
+Nombre
+[map rated]
+Mapa Recomendado
+[map script]
+Script para el Mapa
+[map size x]
+Alto del mapa
+[map size y]
+Ancho del mapa
+[Map upload failure: connection lost]
+La subida del mapa falló: Has perdido la conexión con YOG.
+[Map upload failure: map name in use]
+La subida del mapa falló. El nombre del mapa está ya en uso.
+[Map upload failure: unknown reason]
+La subida del mapa falló. Razón desconocida.
+[Map Upload: Author Name]
+Nombre del Autor
+[Map Upload: Waiting for reply]
+Esperando respuesta
+[mark map]
+Marcar Mapa Para Aliados
+[market explanation 2]
+frutas con otros jugadores
+[market explanation]
+Permite intercambiar
+[market]
+Mercado
+[medium priority]
+med.
+[meta %0]
+meta-%0
+[Min required level:]
+Nivel mínimo necesario:
+[Minimum Level To Flag]
+Nivel Mínimo de Bandera
+[Music volume]
+Volumen (música)
+[Mute]
+Silencio
+[mute]
+Silencio
+[new campaign]
+Nueva Campaña
+[new map]
+Nuevo Mapa
+[nick taken]
+Lo sentimos pero su nombre ya está elegido en frenode, solamente podrá hablar a través de YOG
+[no fullscreen]
+* solo en modo ventana
+[No Hints]
+Sin Daños
+[no key]
+sin tecla
+[No Objectives]
+Sin Objetivos
+[no ressources growth areas]
+Área estéril
+[No]
+No
+[Not Enough Ratings]
+No hay suficiente radio
+[not ready]
+no listo
+[Number Of Buildings]
+
+[number of players: %0 (%1 AI)]
+%0 jugadores (%1 AI)
+[number of teams: %0]
+%0 equipos
+[number of teams]
+número de equipos
+[Number Of Units]
+
+[numlock]
+Bloq Num
+[objectives]
+Objetivos
+[of which]
+
+[ok]
+Aceptar
+[old islands terrain]
+Antiguas islas aleatorias
+[old random terrain]
+Antiguo terreno aleatorio
+[on press]
+Presionando
+[On the spot]
+Aquí
+[on unpress]
+Soltando
+[open chat box]
+Abrir Ventana de Chat
+[open load menu]
+Abrir Menú de Cargar
+[open save menu]
+Abrir Menú de Guardar
+[open scenario editor]
+Abrir Editor de Escenarios
+[open teams editor]
+Abrir Editor de Equipos
+[open]
+abrir
+[OpenGL]
+OpenGL
+[Options]
+Opciones
+[options]
+Opciones
+[Orange]
+Naranja
+[Other Options]
+Otras Opciones
+[page down]
+bajar página
+[page up]
+subir página
+[Papyrus]
+Papiro
+[pause game]
+Pausar Partida
+[pause]
+pausar
+[Paused]
+Pausado
+[player name]
+Nombre del jugador
+[player rating %0]
+Puntaje del Jugador: %0
+[players]
+
+[please wait]
+Por favor espere
+[power]
+poder
+[press space]
+Presione la barra espaciadora para continuar.
+[Prestige Score]
+
+[Prestige Win Enabled]
+Victoria por Prestigio Activado
+[Prestige]
+Prestigio
+[Primary Objectives]
+Primario
+[print screen]
+tomar foto de la pantalla
+[priority]
+Prioridad
+[Prune]
+Ciruela
+[quit the editor]
+Quitar el editor
+[quit the game]
+Quitar el juego
+[quit the replay]
+
+[quit]
+Quitar
+[racetrack explanation 2]
+movimiento de tus unidades
+[racetrack explanation]
+Mejora la velocidad de
+[racetrack]
+Circuito de entrenamiento
+[range]
+Rango
+[Rated %0]
+Votado %0
+[ratios]
+Promedios
+[ready?]
+¿Listo?
+[refresh map list]
+Actualizar Lista de Mapas
+[Register a new YOG user with password]
+Registrar un nuevo nombre de usuario YOG.
+[Register]
+
+[remember unit]
+Recordar unidad
+[Remember YOG password localy]
+Recordar contraseña.
+[remove map]
+Elim. Mapa
+[remove shortcut]
+Eliminar Atajo
+[Remove]
+Eliminar
+[repair building]
+Empezar/Parar Reparación
+[repair]
+Reparar
+[repeat area]
+veces el mismo camino
+[Repeat your password :]
+
+[replay ended]
+
+[restore default shortcuts]
+Restaurar Atajos del Teclado
+[return to editor]
+Regresar al editor
+[return to game]
+Regresar al juego
+[return to replay]
+
+[return]
+intro
+[right meta]
+meta izquierda
+[right super]
+tecla izquierda de windows
+[right]
+izquierda
+[river diameter]
+anchura del río
+[river terrain]
+Río
+[sand]
+Arena
+[save before quit?]
+¿Quieres guardar el mapa antes de salir?
+[save game]
+Guardar partida
+[save map]
+Guardar Mapa
+[save replay]
+
+[save script]
+Guardar Script
+[Save]
+Guardar
+[school explanation 2]
+de tus trabajadores
+[school explanation]
+Mejora el nivel de construcción
+[school]
+Escuela
+[Script Areas]
+Áreas Script
+[scroll lock]
+scroll lock
+[scroll wheel enabled]
+Rueda del ratón activada
+[Secondary Objectives]
+Secundarios
+[seeking a job]
+buscando trabajo
+[seeking]
+buscando
+[select barracks building]
+Seleccionar Cuarteles
+[select clearingflag]
+Seleccionar Bandera de Limpieza
+[select construct barracks]
+Seleccionar Construir Cuarteles
+[select construct defencetower]
+Seleccionar Construir Torre de Defensa
+[select construct hospital]
+Seleccionar Construir Hospital
+[select construct inn]
+Seleccionar Construir Posada
+[select construct market]
+Seleccionar Construir Mercado
+[select construct racetrack]
+Seleccionar Construir Circuito de Entrenamiento
+[select construct school]
+Seleccionar Construir Escuela
+[select construct stonewall]
+Seleccionar Construir Muralla
+[select construct swarm]
+Seleccionar Construir Colmena
+[select construct swimmingpool]
+Seleccionar Construir Piscina
+[select delete tool]
+Seleccionar Eliminar Herramienta
+[select explorationflag]
+Seleccionar Bandera de Exploración
+[select hospital building]
+Seleccionar Hospital
+[select inn building]
+Seleccionar Posada
+[select market building]
+Seleccionar Mercado
+[select place clearing area]
+Seleccionar Sitio para Área de Limpieza
+[select place clearingflag]
+Seleccionar Sitio para Bandera de Limpieza
+[select place explorationflag]
+Seleccionar Sitio para Bandera de Exploración
+[select place forbidden area]
+Seleccionar Sitio para Área Prohibida
+[select place guard area]
+Seleccionar Sitio para Área Protegida
+[select place warflag]
+Seleccionnar Sitio para Bandera de Guerra
+[select racetrack building]
+Seleccionar Circuito de Entranamiento
+[select school building]
+Seleccionar Escuela
+[select swarm building]
+Seleccionar Colmena
+[select swimmingpool building]
+Seleccionar Piscina
+[select tower building]
+Seleccionar Torre de Defensa
+[select wall building]
+Seleccionar Muralla
+[select warflag]
+Seleccionar Bandera de Guerra
+[settings]
+Configuración
+[shift %0]
+shift-%0
+[shortcut explanation enter]
+Intro: Envía un mensaje
+[shortcut explanation v]
+V: presione para hablar
+[show areas]
+
+[show flags]
+
+[show main menu]
+Mostrar Menú Principal
+[skin]
+Mostrar
+[smoothing]
+Nivelación
+[sort by name]
+Nombre
+[sort by rating]
+Popularidad
+[sort by size]
+Tamaño
+[Sort By]
+Ordenar Por
+[space]
+espacio
+[start mission]
+Iniciar misión
+[start new campaign]
+Iniciar Campaña
+[Start]
+Iniciar
+[Starving Map]
+Mapa de Alimentación
+[starving]
+hambruna
+[Statistics]
+Estadísticas
+[Still (i)]
+Permanecer
+[still (w)]
+Quieto
+[still one unit working]
+Una unidad permanece trabajando
+[Still one]
+Quieto
+[Stone]
+Piedra
+[stone]
+piedra
+[stonewall explanation 2]
+pasivo
+[stonewall explanation]
+Elemento de defensa
+[stonewall]
+Muralla
+[submit rating]
+Votar
+[svr hostname]
+Nombre del servidor
+[swamp terrain]
+Swamp
+[swarm explanation 2]
+
+[swarm explanation]
+Crea nuevas unidades
+[swarm]
+Colmena
+[Swim]
+Nadar
+[swimmingpool explanation 2]
+la que nadan tus unidades
+[swimmingpool explanation]
+Mejora la velocidad con
+[swimmingpool]
+Piscina
+[switch to adding areas]
+Cambiar a Añadir Áreas
+[switch to area brush 1]
+Cambiar al Área 1
+[switch to area brush 2]
+Cambiar al Área 2
+[switch to area brush 3]
+Cambiar al Área 3
+[switch to area brush 4]
+Cambiar al Área 4
+[switch to area brush 5]
+Cambiar al Área 5
+[switch to area brush 6]
+Cambiar al Área 6
+[switch to area brush 7]
+Cambiar al Área 7
+[switch to area brush 8]
+Cambiar al Área 8
+[switch to building view]
+Cambiar a Vista de Edificios
+[switch to flag view]
+Cambiar a Vista de Banderas
+[switch to removing areas]
+Cambiar a Eliminar Áreas
+[switch to teams view]
+Cambiar a Vista de Equipo
+[switch to terrain view]
+Cambiar a Vista de Terreno
+[sys req]
+sys req
+[tab]
+tabulador
+[teams editor]
+Editor de Equipos
+[Teams Fixed]
+Equipos Arreglados
+[teams]
+  equipos
+[the barracks is finished]
+La construcción del cuartel ha finalizado
+[the barracks is under attack]
+El cuartel está siendo atacado
+[the building is finished]
+La construcción del edificio ha finalizado
+[the building is under attack]
+El edificio está siendo atacado
+[the clearingflag is finished]
+?? bandera de limpieza finalizada ??
+[the clearingflag is under attack]
+?? la bandera de limpieza está siendo atacada ??
+[the defencetower is finished]
+La construcción de la torre de defensa ha finalizado
+[the defencetower is under attack]
+Tus defensas están siendo atacadas
+[the explorationflag is finished]
+?? bandera de exploración finalizada ??
+[the explorationflag is under attack]
+?? la bandera de exploración está siendo atacada ??
+[The game has not been finished]
+La partida no ha terminado
+[the games]
+Partidas
+[the hospital is finished]
+La construcción del hospital ha finalizado
+[the hospital is under attack]
+El hospital está siendo atacado
+[The host has cancelled the game]
+El anfitrión ha cancelado la partida
+[the inn is finished]
+La construcción de la posada ha finalizado
+[the inn is under attack]
+La posada está siendo atacada
+[the maps]
+Mapas
+[the market is finished]
+La construcción del mercado ha finalizado
+[the market is under attack]
+El mercado está siendo atacado
+[The player %0 has joined YOG]
+%0 ha entrado en YOG.
+[The player %0 has left YOG]
+%0 ha salido de YOG.
+[the racetrack is finished]
+La construcción del circuito de entrenamiento ha finalizado
+[the racetrack is under attack]
+El circuito de entrenamiento está siendo atacado
+[the replays]
+
+[the school is finished]
+La construcción de la escuela ha finalizado
+[the school is under attack]
+La escuela está siendo atacada
+[the stonewall is finished]
+La construcción de una sección de la muralla ha finalizado
+[the stonewall is under attack]
+El enemigo está en tus murallas
+[the swarm is finished]
+La construcción de la colmena ha finalizado
+[the swarm is under attack]
+La colmena está siendo atacada
+[the swimmingpool is finished]
+La construcción de la piscina ha finalizado
+[the swimmingpool is under attack]
+La piscina está siendo atacada
+[the warflag is finished]
+?? bandera de guerra finalizada ??
+[the warflag is under attack]
+?? la bandera de guerra está siendo atacada ??
+[time]
+
+[to:]
+hacia:
+[toggle draw accessibility aids]
+Activar Mostrar Ayuda de Accesibilidad
+[toggle draw information]
+Activar Mostrar Información
+[toggle draw unit paths]
+Activar Mostrar Caminos de Unidades
+[toggle menu screen]
+Activar Menu Pantalla
+[toggle recording voice]
+Activar Grabación de Voz
+[toggle recording voice]
+Iniciar Grabación de Voz
+[Total Attack Power]
+
+[Total Defence Power]
+
+[Total Hitpoints]
+
+[Total prestige reached]
+Total de prestigio necesario alcanzado
+[Total]
+Total
+[tutorial text 1]
+¡Bienvenido al primer tutorial de Globulation 2! Este tutorial cubrirá todo, desde la construcción de posadas y la exploración del mapa hasta la destrucción de tus  enemigos. ¡Aquí todo son conocimientos útiles!
+[tutorial text 2]
+Ahora que tienes el dominio de lo básico es el momento de acostumbrarse a otros edificios como circuitos de entrenamiento, piscinas y escuelas.
+[tutorial text 3]
+¡Has mejorado mucho!. Ahora vamos a pasar a la guerra y las mejoras de edificios.
+[tutorial text 4]
+Ya casi has terminado. Solo faltan que conozcas las banderas y   las técnicas de ataque.  Entonces sabrás suficiente como para aventurarte con una Partida personalizada e incluso jugar online.
+[tutorial]
+Tutorial
+[Uncontrolled]
+Independiente
+[undo]
+deshacer
+[uniform terrain]
+Terreno uniforme
+[Unit editor]
+Editor de unidades
+[unit settings explanation]
+Número de trabajadores asignados por defecto
+[units working]
+unidades trabajando
+[Units]
+Unidades
+[unlocked at start]
+Desbloqueado al Principio
+[unlocked by]
+Desbloqueado Por
+[Unnamed Area]
+{Área sin Nombre}
+[up]
+arriba
+[upgrade building]
+Iniciar/parar Mejora
+[Upgrade Defaults]
+Mejoras
+[upgrade]
+Mejorar
+[Upload Map]
+Subir Mapa
+[upload map]
+Subir Mapa
+[username]
+Nombre de usuario:
+[Version]
+Versión
+[view history]
+Ver Historial
+[Voice volume]
+Volumen (voz)
+[waiting for %0]
+Esperando a %0
+[waiting for key]
+esperando la  clave...
+[Waiting]
+Esperando
+[Walk]
+Velocidad de movimiento
+[warflag explanation 2]
+
+[warflag explanation]
+Atrae guerreros
+[warflag]
+Bandera de Guerra
+[Warning, you need to reboot the game for changes to take effect]
+Atención, tienes que reiniciar el juego para que los cambios tengan efecto
+[Warrior Ratio]
+Radio de Guerrero
+[Warrior]
+Guerrero
+[warriors]
+guerreros
+[watch again]
+
+[watching:]
+
+[water]
+Agua
+[Wheat]
+Trigo
+[Won : you defeated your opponents]
+¡Has ganado: Eliminaste a tus oponentes!
+[Won : you have the most prestige]
+¡Has ganado: tienes el mayor prestigio!
+[Won : your ally %0 has the most prestige]
+¡Has ganado: %0 tiene el prestigio más alto!
+[Wood]
+Madera
+[wood]
+madera
+[Worker Ratio]
+Radio de Trabajador
+[Worker]
+Trabajador
+[workers]
+Trabajadores
+[workers]
+trabajadores
+[working]
+Trabajando
+[wounded]
+herido
+[Yes]
+Sí
+[YESTS_CONNECTING]
+Estableciendo la conexión con YOG...
+[YESTS_CONNECTION_LOST]
+Se ha perdido la conexión con YOG.
+[YESTS_CONNECTION_REFUSED_ALREADY_PASSWORD]
+YOG ha rechazado la conexión por que ese nombre de usuario ya ha sido registrado.  Si el nombre de usuario es tuyo, desactiva la opción "Registrar un nuevo usuario en YOG".
+[YESTS_CONNECTION_REFUSED_BAD_PASSWORD]
+YOG ha rechazado la conexión por que la contraseña es incorrecta.
+[YESTS_CONNECTION_REFUSED_BAD_PASSWORD_NON_ZERO]
+YOG ha rechazado la conexión por que el nombre de usuario elegido no tiene contraseña. Si quieres registrar el nombre de usuario con la contraseña que has escrito selecciona la opción "Registrar un nuevo nombre de usuario YOG" antes de conectar (sólo necesitarás activar la opción una vez)
+[YESTS_CONNECTION_REFUSED_IP_TEMPORARILY_BANNED]
+YOG ha rechazado la conexión por que tu IP está temporalmente baneada. You will have to wait patiently until it is unbanned or contact the administrators.
+[YESTS_CONNECTION_REFUSED_PROTOCOL_TOO_OLD]
+YOG ha rechazado la conexión por que tu versión de Globulation2 está desactualizada. Por favor, descargua la última versión en www.globulation2.org para poder jugar online.
+[YESTS_CONNECTION_REFUSED_UNEXPLAINED]
+YOG ha rechazado la conexión por razones desconocidas.
+[YESTS_CONNECTION_REFUSED_USERNAME_ALLREADY_USED]
+YOG ha rechazado la conexión por que el nombre de usuario elegido ya está en uso.
+[YESTS_CONNECTION_REFUSED_USERNAME_BANNED]
+YOG ha rechazado la conexión por que el nombre de usuaro elegido está baneado. Por favor contacta con los administradores.
+[YESTS_CONNECTION_REFUSED_USERNAME_INVALID_SPECIAL_CHARACTERS]
+YOG ha rechazado la conexión por que  el nombre de usuario elegido es inválido. Los nombres de usuario solo pueden tener letras, números y barra-baja.
+[YESTS_CREATED]
+El sistema de conexión está preparado.
+[YESTS_PASSWORDS_DONT_MATCH]
+
+[YESTS_UNABLE_TO_CONNECT]
+No se pudo conectar. Aparentemente el servidor YOG está caido.
+[yog block command help]
+/block <playername>     Bloquea a un jugador, no verás más este texto.
+[yog block command player %0 already blocked]
+El jugador %0 está bloqueado
+[yog block command player %0 blocked]
+Jugador %0 bloqueado
+[yog block command player %0 not found]
+Jugador %0 no encontrado
+[yog command header]
+La lista de comandos del cliente YOG son:
+[yog command unknown]
+Comando Desconocido.
+[yog help command help]
+/help    Muestra este mensaje de ayuda
+[yog]
+Jugar Online con YOG
+[you have lost]
+¡Has perdido!
+[you have won]
+¡Has ganado!
+[You where kicked from the game]
+Has sido expulsado de la partida
+[Your %0 are under attack]
+Tu %0 está siendo atacado
+[Your IP address was temporarily banned]
+Tu dirección IP está baneada temporalmente. Espere o contacte con los administradores.
+[Your unit got converted to %0's team]
+Tu unidad ha sido convertida por el jugador %0
+[Your username was banned]
+Tu nombre de usuario ha sido baneado. Contacte con los administradores.
