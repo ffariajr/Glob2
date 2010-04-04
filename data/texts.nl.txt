@@ -1,0 +1,1240 @@
+[%0 has left the game]
+%0 heeft het spel verlaten
+[%0 level %1]
+%0 niveau %1
+[%0 units can't access building]
+%0 globs kunnen het gebouw niet bereiken
+[%0 units can't access flag]
+%0 globs kunnen de vlag niet bereiken
+[%0 units can't access fruit]
+%0 globs kunnen het fruit niet bereiken
+[%0 units can't access resource]
+%0 globs kunnen de bron niet bereiken
+[%0 units not available]
+%0 globs zijn niet beschikbaar
+[%0 units too far from building]
+%0 globs zijn te ver van het gebouw
+[%0 units too far from flag]
+%0 globs zijn te ver van de vlag
+[%0 units too far from fruit]
+%0 globs zijn te ver van fruit
+[%0 units too far from resource]
+%0 globs zijn te ver van de bron
+[%0 units too low level]
+%0 globs hebben te laag niveau
+[%0% Uploaded]
+%0% geüpload
+[%0's game]
+%0's spel
+[%0's team unit got converted to your team]
+Een glob van %0's team is overgelopen naar jou
+[abreaviation explanation A]
+A: Alliantie
+[abreaviation explanation C]
+C: Stuur berichten naar
+[abreaviation explanation fV]
+fV: Toon alle herbergen (steelt hongerige globs)
+[abreaviation explanation mV]
+mV: Toon alle markten (om handel te drijven)
+[abreaviation explanation V]
+V: Toon alle gebouwen
+[add map]
+Toevoegen
+[add shortcut]
+Sneltoets toevoegen
+[Add]
+Toevoegen
+[AI Descriptions]
+AI beschrijvingen
+[AI]
+AI
+[ai]
+AI
+[AICastor-Description]
+Castor is conservatief en speelt goed als er weinig grondstoffen zijn. Moeilijkheidsgraad: Gemiddeld.
+[AICastor]
+Castor
+[AINicowar-Description]
+Nicowar speelt agressief en imperialistisch. Hij bouwt snel een groot rijk op en stuurt machtige legers op zijn vijanden af. Moeilijkheidsgraad: Moeilijk.
+[AINicowar]
+Nicowar
+[AINone-Description]
+Zoals de naam zegt: deze AI doet niets.
+[AINone]
+Geen AI
+[AINumbi-Description]
+Numbi is een gemakkelijke vijand die traag groeit en niet goed met grondstoffen kan omgaan. Moeilijkheidsgraad: Gemakkelijk.
+[AINumbi]
+Numbi
+[AIReachToInfinity-Description]
+ReachToInfinity valt niet aan, maar probeert in evenwicht met de natuur enorme steden op te bouwen. Let wel op, want met zijn vele herbergen lopen jouw globs al snel over. Moeilijkheidsgraad: Gemakkelijk.
+[AIReachToInfinity]
+ReachToInfinity
+[AIToubib-Description]
+Toubib
+[AIToubib]
+Toubib
+[AIWarrush-Description]
+Warrush is snel en onverbiddelijk. Voor je het weet staan zijn legers aan jouw deur en moet je verdedigen alsof je leven er van afhangt, want dat is ook zo. Moeilijkheidsgraad: Gemiddeld.
+[AIWarrush]
+Warrush
+[Alga]
+Zeewier
+[algae]
+zeewier
+[alliances]
+Allianties
+[alt %0]
+alt-%0
+[and]
+en
+[any explorer]
+elke verkenner
+[are dying hungry]
+zijn uitgehongerd
+[are hungry]
+hebben honger
+[are ok]
+zijn gezond
+[are wonded]
+zijn gewond
+[armor]
+Pantser
+[assigned]
+Toegewezen
+[At. speed]
+Aanv. snelheid
+[At. strength]
+Aanv. kracht
+[Attack]
+Aanval
+[audio]
+Geluid
+[auto save]
+Autosave
+[available lan games]
+Beschikbare LAN spellen
+[awaiting players]
+Wacht op spelers
+[away:]
+weg:
+[Back]
+Terug
+[backspace]
+backspace
+[barracks explanation 2]
+beter aanvallen
+[barracks explanation]
+Leert je eenheden
+[barracks]
+Kazerne
+[beach size]
+Strandgrootte
+[Blocked Players]
+Geblokkeerde spelers
+[break]
+break
+[briefing]
+Briefing
+[build %0 level %1]
+Bouw %0 niveau %1
+[Build]
+Bouwen
+[Building Defaults]
+Gebouwen
+[building settings]
+Bouw-standaarden
+[building site]
+bouwplaats
+[Building Tool Box Explanation]
+Shift + Slepen = Vierkant
+[Building Tool Line Explanation]
+Ctrl + Slepen = Lijn
+[Buildings]
+Gebouwen
+[Bullets]
+Kogels
+[campaign editor]
+Campagne bewerken
+[campaign]
+Campagne
+[Can't connect, can't find host]
+Verbinding mislukt: kan de host niet vinden
+[Can't host game, port %0 in use]
+Kan geen spel maken want poort %0 is in gebruik
+[Can't join game, game doesn't exist]
+Kan niet deelnemen aan dit spel want het bestaat niet (meer).
+[Can't join game, game has started]
+Kan niet deelnemen aan dit spel want het is reeds gestart
+[Can't join game, game is full]
+Kan niet deelnemen aan dit spel want het zit vol.
+[Can't join game, missmatching game parameters]
+Kan niet deelnemen aan dit spel: parmaters tussen beiden partijen verschillen.
+[Can't join game, timeout]
+Kan niet deelnemen aan dit spel: timeout
+[Can't join game, wrong game version]
+Kan niet deelnemen aan dit spel: verschillende versies
+[cancel destroy]
+Stop vernietigen
+[cancel repair]
+Stop reparatie
+[cancel upgrade]
+Stop verbeteren
+[Cancel]
+Annuleren
+[caps lock]
+Caps Lock
+[carry]
+Draagt:
+[Change Area Name]
+Hernoem gebied
+[Cherry]
+Kersen
+[choose campaign]
+Kies een missie
+[choose game]
+Kies een spel
+[choose map]
+Kies een speelveld
+[clear area]
+Grondstoffenzone
+[Clearing:]
+ontruimen:
+[clearingflag explanation 2]
+grondstoffen te ontruimen
+[clearingflag explanation]
+Roept werkers op om
+[clearingflag]
+Ontruimingsvlag
+[closed]
+Gesloten
+[combined vision]
+Zicht op iedereen
+[compile]
+Compileer script
+[compose]
+stel samen
+[Computing Fertility]
+Vruchtbaarheid berekenen...
+[concrete islands terrain]
+Rivieren
+[connect]
+Verbinden
+[connecting to game]
+Verbinden met het spel
+[connecting to]
+Verbinden met
+[Construction Site Defaults]
+Bouwwerven
+[Continue playing]
+Speel verder
+[control %0]
+Ctrl-%0
+[Corn]
+Graan
+[crater density]
+Krater dichtheid
+[crater lakes terrain]
+Kraters en meren
+[create game]
+Start een spel
+[create map]
+Bewerk speelveld
+[credits]
+Met dank aan...
+[ctrl - line]
+Ctrl-lijn
+[current speed]
+Huidige snelheid
+[custom game]
+Nieuw Spel
+[customcur]
+Alternatieve cursor
+[damage]
+Schade
+[Damaged Map]
+Beschadigd
+[decrease units working]
+Verminder aantal werkende eenheden
+[Defeat Your Oppenents]
+Versla je vijanden
+[defencetower explanation 2]
+die in de buurt komen
+[defencetower explanation]
+Valt vijanden aan
+[defencetower level 0]
+Toren 0
+[defencetower level 1]
+Toren 1
+[defencetower level 2]
+Toren 2
+[defencetower]
+Toren
+[Defense Map]
+Defensie
+[Defense]
+Defensie
+[Delete game]
+Verwijder dit spel
+[delete]
+Verwijder
+[desert]
+Woestijn
+[destroy building]
+Vernietig geselecteerd gebouw
+[destroy]
+Vernietig
+[display]
+Beeld
+[do nothing]
+doe niets
+[don't carry anything]
+Draagt niets
+[down]
+beneden
+[Download Map]
+Download Speelveld
+[Download Maps]
+Speelvelden
+[downloaded %0]
+%0 gedownload
+[downloading map]
+speelveld aan het downloaden
+[edit map]
+Bewerken
+[editing map]
+Speelveld bewerken
+[editor shortcuts]
+toets-instellingen
+[editor]
+Bewerk speelvelden
+[end]
+einde
+[Enter your nickname :]
+Voer gebruikersnaam in:
+[Enter your password :]
+Voer wachtwoord in:
+[enter]
+Enter
+[equals]
+is gelijk aan
+[escape]
+Esc
+[explorationflag explanation 2]
+het terrein te verkennen
+[explorationflag explanation]
+Roept verkenners op
+[explorationflag]
+Verkenningsvlag
+[Explorer Ratio]
+Verkenner ratio
+[Explorer]
+Verkenner
+[explorers]
+verkenners
+[extra islands]
+Lege eilanden
+[f10]
+F10
+[f11]
+F11
+[f12]
+F12
+[f13]
+F13
+[f14]
+F14
+[f15]
+F15
+[f1]
+F1
+[f2]
+F2
+[f3]
+F3
+[f4]
+F4
+[f5]
+F5
+[f6]
+F6
+[f7]
+F7
+[f8]
+F8
+[f9]
+F9
+[Fertility Map]
+Vruchtbaarheid
+[Flag Defaults]
+Vlaggen
+[flag settings explanation]
+De standaard straal van de vlag:
+[fog of war]
+Oorlogsmist
+[food]
+Voedsel
+[forbidden area]
+Verboden zone
+[Free]
+Ok
+[free]
+vrij
+[free]
+vrij
+[from:]
+van:
+[fruit]
+Fruit
+[fullscreen]
+Volledig Scherm
+[game full]
+Spel is vol
+[game shortcuts]
+Speltoetsen
+[Game]
+Spel
+[general settings]
+Algemeen
+[go to event]
+Ga naar laatste gebeurtenis
+[go to home]
+Ga naar basis
+[goto main menu]
+Terug naar hoofdmenu
+[grass]
+Gras
+[ground attack]
+Grondaanval
+[guard area]
+Verdedigingszone
+[GUIMapPreview text 0]
+Selecteer links
+[GUIMapPreview text 1]
+een spel/speelveld
+[handmade map]
+Zelfgemaakt speelveld
+[Happyness]
+Tevredenheid
+[hard pause]
+Harde pauze
+[Harvest]
+Verzamelen
+[high priority]
+Hoge prioriteit
+[hints]
+Hints
+[home]
+Basis
+[hospital explanation 2]
+
+[hospital explanation]
+Geneest je eenheden
+[hospital]
+Ziekenhuis
+[host]
+Start een server
+[hp]
+Sterkte
+[hp]
+Sterkte
+[Human]
+Mens
+[human]
+mens
+[hungry]
+honger
+[hungryness]
+Honger
+[In way]
+Op weg
+[increase units working]
+Verhoog aantal werkende eenheden
+[inn explanation 2]
+
+[inn explanation]
+Voedt je eenheden
+[inn level 0]
+Herberg 0
+[inn level 1]
+Herberg 1
+[inn level 2]
+Herberg 2
+[inn]
+Herberg
+[insert]
+Insert
+[inside]
+Binnen
+[islands size]
+Eiland grootte
+[islands terrain]
+Eilanden
+[isles terrain]
+Kleine eilandjes
+[iterate selection]
+Selecteer volgende
+[jobs]
+werk
+[join a game]
+Verbind met server
+[join]
+Deelnemen
+[keyboard settings]
+Toetsenbord
+[kick]
+Gooi buiten
+[lan]
+LAN Spel
+[language incomplete]
+Nederlands - Onvolledig
+[language-code]
+nl
+[language-tr]
+Taal
+[language]
+Nederlands
+[Leave Game]
+Verlaat spel
+[left meta]
+Linker Meta
+[left super]
+Linker Super
+[left]
+Links
+[level]
+Niveau
+[levels]
+Niveaus
+[load campaign]
+Campagne laden
+[load game]
+Laden
+[load map]
+Speelveld laden
+[load replay]
+Laad herhaling
+[load script]
+Laad script
+[load]
+Laden
+[loading map list]
+Laad speelvelden
+[Lobby]
+Lobby
+[login]
+Aanmelden
+[look around]
+Kijk nog wat rond
+[Lost : %0 has more prestige than you]
+Verloren: %0 heeft meer roem dan jou
+[Lost : your colony is dead]
+Verloren: je kolonie is dood
+[low priority]
+Lage prioriteit
+[lowquality]
+Lage kwaliteit
+[Magic At. Air]
+Luchtschade
+[Magic At. Ground]
+Grondschade
+[map description]
+Beschrijving
+[Map Discovered]
+Speelveld volledig zichtbaar
+[Map download failure: lost connection]
+Kan speelveld niet downloaden: verbinding verbroken
+[Map name: %0]
+Naam speelveld: %0.
+[map name]
+Naam
+[map rated]
+Speelveld beoordeeld
+[map script]
+Script
+[map size x]
+Breedte van speelveld
+[map size y]
+Hoogte van speelveld
+[Map upload failure: connection lost]
+Kan speelveld niet uploaden: verbinding verbroken
+[Map upload failure: map name in use]
+Kan speelveld niet uploaden: een speelveld met deze naam bestaat al!
+[Map upload failure: unknown reason]
+Kan speelveld niet uploaden
+[Map Upload: Author Name]
+Auteur
+[Map Upload: Waiting for reply]
+Verbinden...
+[maps available]
+Beschikbare speelvelden
+[mark map]
+Markeer speelveld voor bondgenoten
+[market explanation 2]
+met anderen
+[market explanation]
+Verhandel fruit
+[market]
+Markt
+[medium priority]
+Gemiddelde prioriteit
+[meta %0]
+Meta-%0
+[Min required level:]
+Minimaal vereist niveau:
+[Minimum Level To Flag]
+Minimaal vereist niveau:
+[Music volume]
+Volume (muziek)
+[Mute]
+Stilte
+[mute]
+stilte
+[new campaign]
+Nieuwe campagne
+[new map]
+Nieuw speelveld
+[nick taken]
+Het spijt ons, maar de naam die je gekozen hebt is al geregistreerd bij freenode. Je kan alleen maar praten via YOG
+[no fullscreen]
+* niet in volledig scherm
+[No Hints]
+Geen hints
+[no key]
+Geen sleutel
+[No Objectives]
+Geen doelen
+[no ressources growth areas]
+niet-groeigebieden
+[No]
+Nee
+[Not Enough Ratings]
+-
+[not ready]
+Niet klaar
+[Number Of Buildings]
+Aantal gebouwen
+[number of players: %0 (%1 AI)]
+%0 spelers (%1 AI)
+[number of players: %0]
+%0 spelers
+[number of teams: %0]
+%0 teams
+[number of teams]
+Aantal teams
+[Number Of Units]
+Aantal eenheden
+[numlock]
+Num lock
+[objectives]
+Doelen
+[of which]
+waarvan
+[ok]
+Ok
+[old islands terrain]
+Oude eilanden
+[old random terrain]
+Oud willekeurig terrein
+[on press]
+Bij indrukken
+[On the spot]
+Hier
+[on unpress]
+Bij opheffen
+[open chat box]
+Open chatbox
+[open load menu]
+Open menu laden
+[open save menu]
+Open menu opslaan
+[open scenario editor]
+Open scriptbewerker
+[open teams editor]
+Open teambewerker
+[open]
+Open
+[OpenGL]
+OpenGL
+[Options]
+Opties
+[options]
+opties
+[Orange]
+Sinaasappelen
+[Other Options]
+Andere opties
+[page down]
+Page down
+[page up]
+Page up
+[Papyrus]
+Papyrus
+[pause game]
+Pauzeer het spel
+[pause]
+pauze
+[Paused]
+Gepauzeerd
+[player name]
+Naam speler
+[player rating %0]
+Rang %0
+[players]
+Spelers
+[please wait]
+Even geduld alstublieft
+[power]
+Kracht
+[press space]
+Druk op spatie om verder te gaan
+[Prestige Score]
+Roem-score
+[Prestige Win Enabled]
+Winnen door roem mogelijk
+[Prestige]
+Roem
+[Primary Objectives]
+Hoofddoelen
+[print screen]
+Print screen
+[priority]
+Prioriteit
+[Prune]
+Pruimen
+[quit the editor]
+Verlaat bewerker
+[quit the game]
+Verlaat dit spel
+[quit the replay]
+Verlaat de herhaling
+[quit]
+Afsluiten
+[racetrack explanation 2]
+sneller lopen
+[racetrack explanation]
+Leert je eenheden
+[racetrack]
+Racebaan
+[range]
+Bereik
+[Rated %0]
+Beoordeeld %0
+[ratios]
+Afmetingen
+[ready?]
+Klaar?
+[refresh map list]
+Vernieuwen
+[Register a new YOG user with password]
+Registreer nieuwe gebruiker met wachtwoord (onveilig)
+[Register]
+Registreer
+[remember unit]
+Onthoud eenheid
+[Remember YOG password localy]
+Onthoud wachtwoord (onveilig)
+[remove map]
+Verwijderen
+[remove shortcut]
+Verwijder sneltoets
+[Remove]
+Verwijder
+[repair building]
+Start/Stop repareren
+[repair]
+Repareren
+[repeat area]
+Herhaling van speelveld
+[Repeat your password :]
+Herhaal uw wachtwoord:
+[replay ended]
+Einde van de herhaling
+[restore default shortcuts]
+Herstel standaard toetsbindingen
+[return to editor]
+Terug naar bewerker
+[return to game]
+Speel verder
+[return to replay]
+Terug naar herhaling
+[return]
+Terug
+[right meta]
+Rechter Meta
+[right super]
+Rechter Super
+[right]
+Rechts
+[river diameter]
+Breedte van rivier
+[river terrain]
+Rivier
+[sand]
+Zand
+[save before quit?]
+Wil je spel opslaan voordat je aflsuiten?
+[save game]
+Opslaan
+[save map]
+Speelveld opslaan
+[save replay]
+Herhaling opslaan
+[save script]
+Script opslaan
+[Save]
+Opslaan
+[school explanation 2]
+beter bouwen
+[school explanation]
+Leert je eenheden
+[school]
+School
+[Script Areas]
+Scriptgebieden
+[scroll lock]
+Scroll Lock
+[scroll wheel enabled]
+Muiswiel ingeschakeld
+[Secondary Objectives]
+Randdoelen
+[seeking a job]
+werkzoekend
+[seeking]
+zoeken
+[select barracks building]
+Selecteer kazerne
+[select clearingflag]
+Selecteer ontruimingsvlag
+[select construct barracks]
+Selecteer kazerne-werf
+[select construct defencetower]
+Selecteer toren-werf
+[select construct hospital]
+Selecteer ziekenhuis-werf
+[select construct inn]
+Selecteer herberg-werf
+[select construct market]
+Selecteer markt-werf
+[select construct racetrack]
+Selecteer racebaan-werf
+[select construct school]
+Selecteer school-werf
+[select construct stonewall]
+Selecteer muur-werf
+[select construct swarm]
+Selecteer zwerm-werf
+[select construct swimmingpool]
+Selecteer zwembad-werf
+[select delete tool]
+Selecteer gom
+[select explorationflag]
+Selecteer verkenningsvlag
+[select hospital building]
+Selecteer ziekenhuis
+[select inn building]
+Selecteer herberg
+[select market building]
+Selecteer markt
+[select place clearing area]
+Ontruimingsgebied plaatsen
+[select place clearingflag]
+Ontruimingsvlag plaatsen
+[select place explorationflag]
+Verkenningsvlag plaatsen
+[select place forbidden area]
+Verboden zone plaatsen
+[select place guard area]
+Verdedigingszone plaatsen
+[select place warflag]
+Oorlogsvlag plaatsen
+[select racetrack building]
+Selecteer racebaan
+[select school building]
+Selecteer school
+[select swarm building]
+Selecteer zwerm
+[select swimmingpool building]
+Selecteer zwembad
+[select tower building]
+Selecteer toren
+[select wall building]
+Selecteer muur
+[select warflag]
+Selecteer oorlogsvlag
+[settings]
+Instellingen
+[shift %0]
+Shift-%0
+[shortcut explanation enter]
+Enter-toets: stuur een bericht
+[shortcut explanation v]
+V-toets: ingedrukt houden om te spreken
+[show areas]
+Toon gebieden
+[show flags]
+Toon vlaggen
+[show main menu]
+Toon Hoofdmenu
+[skin]
+Uiterlijk
+[smoothing]
+Egalisering
+[sort by name]
+Naam
+[sort by rating]
+Beoordeling
+[sort by size]
+Grootte
+[Sort By]
+Sorteer op:
+[space]
+Spatie
+[start mission]
+Start missie
+[start new campaign]
+Start nieuwe campagne
+[Start]
+Starten
+[Starving Map]
+Uitgehongerd
+[starving]
+stervende
+[Statistics]
+Statistieken
+[Still (i)]
+Nog
+[still (w)]
+Nog
+[still one unit working]
+Nog één eenheid aan het werk
+[Still one]
+Nog één
+[Stone]
+Steen
+[stone]
+steen
+[stonewall explanation 2]
+element
+[stonewall explanation]
+Passief verdedigings-
+[stonewall]
+Muur
+[submit rating]
+Beoordeel
+[svr hostname]
+Servernaam
+[swamp terrain]
+Moeras
+[swarm explanation 2]
+
+[swarm explanation]
+Maakt nieuwe eenheden
+[swarm level 0]
+Zwerm
+[swarm]
+zwerm
+[Swim]
+Zwemmen
+[swimmingpool explanation 2]
+sneller zwemmen
+[swimmingpool explanation]
+Leert je eenheden
+[swimmingpool]
+Zwembad
+[switch to adding areas]
+Voeg gebieden toe
+[switch to area brush 1]
+Gebruik patroon 1
+[switch to area brush 2]
+Gebruik patroon 2
+[switch to area brush 3]
+Gebruik patroon 3
+[switch to area brush 4]
+Gebruik patroon 4
+[switch to area brush 5]
+Gebruik patroon 5
+[switch to area brush 6]
+Gebruik patroon 6
+[switch to area brush 7]
+Gebruik patroon 7
+[switch to area brush 8]
+Gebruik patroon 8
+[switch to building view]
+Schakel naar gebouwen scherm
+[switch to flag view]
+Schakel naar vlaggen scherm
+[switch to removing areas]
+Verwijder gebieden
+[switch to teams view]
+Schakel naar teams scherm
+[switch to terrain view]
+Schakel naar terrein scherm
+[sys req]
+Sys req
+[tab]
+Tab
+[teams editor]
+Team-bewerker
+[Teams Fixed]
+Vaste teams
+[teams]
+ teams
+[the barracks is finished]
+De kazerne is voltooid
+[the barracks is under attack]
+De kazerne wordt aangevallen
+[the building is finished]
+Het gebouw is voltooid
+[the building is under attack]
+Het gebouw wordt aangevallen
+[the clearingflag is finished]
+?? De ontruimingsvlag is klaar ??
+[the clearingflag is under attack]
+?? De ontruimingsvlag wordt aangevallen ??
+[the defencetower is finished]
+De toren is voltooid
+[the defencetower is under attack]
+Je defensie ligt onder vuur
+[the explorationflag is finished]
+?? De verkenningsvlag is klaar ??
+[the explorationflag is under attack]
+?? De verkenningsvlag wordt aangevallen ??
+[The game has not been finished]
+Het spel is nog niet afgelopen
+[the games]
+Spellen
+[the hospital is finished]
+Het ziekenhuis is voltooid
+[the hospital is under attack]
+Het ziekenhuis wordt aangevallen
+[The host has cancelled the game]
+De host heeft het spel geannulleerd
+[the inn is finished]
+De herberg is voltooid
+[the inn is under attack]
+De herberg wordt aangevallen
+[the maps]
+Speelvelden
+[the market is finished]
+De markt is voltooid
+[the market is under attack]
+De markt wordt aangevallen
+[The player %0 has joined YOG]
+%0 komt YOG binnen.
+[The player %0 has left YOG]
+%0 heeft YOG verlaten.
+[the racetrack is finished]
+De racebaan is voltooid
+[the racetrack is under attack]
+De racebaan wordt aangevallen
+[the replays]
+Herhalingen
+[the school is finished]
+De school is voltooid
+[the school is under attack]
+De school wordt aangevallen
+[the stonewall is finished]
+Er is een stuk muur af
+[the stonewall is under attack]
+De vijand nadert je muren
+[the swarm is finished]
+De zwerm is voltooid
+[the swarm is under attack]
+De zwerm wordt aangevallen
+[the swimmingpool is finished]
+Het zwembad is voltooid
+[the swimmingpool is under attack]
+Het zwembad wordt aangevallen
+[the warflag is finished]
+?? De oorlogsvlag is klaar ??
+[the warflag is under attack]
+?? De oorlogsvlag wordt aangevallen ??
+[time]
+Tijd
+[to:]
+aan:
+[toggle draw accessibility aids]
+Tekenhulpmiddelen aan/uitschakelen
+[toggle draw information]
+Tekeninformatie aan/uitschakelen
+[toggle draw unit paths]
+Paden van eenheden aan/uitschakelen
+[toggle menu screen]
+Menu scherm aan/uitschakelen
+[toggle recording voice]
+Spraak opname aan/uitschakelen
+[Total Attack Power]
+Totale aanvalskracht
+[Total Defence Power]
+Totale verdedigingskracht
+[Total Hitpoints]
+Totale levenspunten
+[Total prestige reached]
+Roem-limiet bereikt
+[Total]
+Totaal
+[tutorial text 1]
+Welkom bij Globulation 2! Deze tutorial zal u alles leren over het bouwen van herbergen, het verkennen van gebieden en het vernietigen van uw vijanden! Als dit de eerste keer is dat u dit spel speelt is dit een absolute aanrader!
+[tutorial text 2]
+Nu je je al wat thuis voelt in Globulation 2 is het eens tijd om gebouwen zoals racebanen, zwembaden en scholen te leren kennen.
+[tutorial text 3]
+Je kan al goed met Globulation 2 onderweg. In deze tutorial worden je meerster over krijgers, kazernes en upgrades.
+[tutorial text 4]
+Je bent er bijna. Nu komt het leukste deel: aanvallen! Daarna weet je genoeg over Globulation 2 om zelf spellen tegen de computer te spelen en uiteindelijk het online op de Ysagoon (YOG) server het tegen Globulation 2's beste spelers op te nemen.
+[tutorial]
+Tutorial
+[Uncontrolled]
+Onbestuurd
+[undo]
+Ongedaan maken
+[uniform terrain]
+Effen terrein
+[Unit editor]
+Eenheid bewerken
+[unit settings explanation]
+Het standaard aantal werkende eenheden:
+[units working]
+ werkende eenheden
+[Units]
+Eenheden
+[unlocked at start]
+Beschikbaar bij het begin
+[unlocked by]
+Beschikbaar door
+[Unnamed Area]
+{naamloos gebied}
+[up]
+Omhoog
+[upgrade building]
+Start/Stop verbeteren
+[Upgrade Defaults]
+Upgrades
+[upgrade]
+Verbeter
+[Upload Map]
+Upload speelveld
+[upload map]
+upload speelveld
+[username]
+Gebruikersnaam
+[Version]
+Versie
+[view history]
+Bekijk geschiedenis
+[Voice volume]
+Volume (spraak)
+[waiting for %0]
+Wachten op %0
+[waiting for key]
+Wachten op sleutel
+[Waiting]
+Wachten
+[Walk]
+Lopen
+[warflag explanation 2]
+om aan te vallen
+[warflag explanation]
+Roept soldaten op
+[warflag]
+Oorlogsvlag
+[Warning, you need to reboot the game for changes to take effect]
+Let op, je moet het spel opnieuw opstarten om de veranderingen te activeren
+[Warrior Ratio]
+Soldaat ratio
+[Warrior]
+Soldaat
+[warriors]
+soldaten
+[watch again]
+Bekijk opnieuw
+[watching:]
+Speler:
+[water]
+Water
+[Wheat]
+Graan
+[wheat]
+graan
+[Won : you defeated your opponents]
+Gewonnen: je hebt je tegenstanders verslagen
+[Won : you have the most prestige]
+Gewonnen: jij hebt de meeste roem
+[Won : your ally %0 has the most prestige]
+Gewonnen: je bondgenoot %0 heeft de meeste roem
+[Wood]
+Hout
+[wood]
+Hout
+[Worker Ratio]
+Werker ratio
+[Worker]
+Werker
+[workers]
+Werkers
+[workers]
+werkers
+[working]
+Werkend
+[wounded]
+gewond
+[Yes]
+Ja
+[YESTS_CONNECTING]
+Verbinden met de YOG server...
+[YESTS_CONNECTION_LOST]
+De verbinding met YOG is verbroken.
+[YESTS_CONNECTION_REFUSED_ALREADY_PASSWORD]
+De verbinding met de YOG server is geweigerd omdat deze gebruikersnaam al eerder is geregistreerd. Als dit jouw gebruikersnaam is, druk dan op "Annuleren", vul uw wachtwoord in en druk daarna op "Aanmelden".
+[YESTS_CONNECTION_REFUSED_BAD_PASSWORD]
+De verbinding met de YOG server is geweigerd omdat uw wachtwoord onjuist is.
+[YESTS_CONNECTION_REFUSED_BAD_PASSWORD_NON_ZERO]
+De verbinding met de YOG server is geweigerd omdat er nog geen wachtwoord is ingesteld voor deze gebruikersnaam. Waarschijnlijk wil je je gebruikersnaam eerst registreren. Om dit te doen druk je op de knop "Registreer". Je hoeft dit slechts één keer te doen.
+[YESTS_CONNECTION_REFUSED_IP_TEMPORARILY_BANNED]
+De verbinding met de YOG server is geweigerd omdat dit IP-adres tijdelijk verbannen is. Gelieve te wachten tot dit IP-adres weer toegestaan is of neem contact op met de beheerders.
+[YESTS_CONNECTION_REFUSED_PROTOCOL_TOO_OLD]
+De verbinding met de YOG is geweigerd omdat uw globulation2 client te oud is.
+[YESTS_CONNECTION_REFUSED_UNEXPLAINED]
+De verbinding met de YOG server geweigerd voor onbekende reden. Gelieve contact op te nemen met de beheerders. Onze excuses voor het ongemak.
+[YESTS_CONNECTION_REFUSED_USERNAME_ALLREADY_USED]
+De verbinding met de YOG server is geweigerd omdat uw gebruikersnaam al in gebruik is.
+[YESTS_CONNECTION_REFUSED_USERNAME_BANNED]
+De verbinding met de YOG server is geweigerd omdat deze gebruikersnaam verbannen is. Gelieve contact op te nemen met de beheerders.
+[YESTS_CONNECTION_REFUSED_USERNAME_INVALID_SPECIAL_CHARACTERS]
+De verbinding met de YOG server is geweigerd omdat de opgegeven gebruikersnaam ongeldig is. Gebruikersnamen mogen alleen bestaan uit letters, cijfers en liggende streepjes.
+[YESTS_CREATED]
+Je kunt nu met de YOG server verbinden. Log in met een reeds geregistreerde gebruikersnaam, of registreer een nieuwe gebruikersnaam door op de knop "Registreer" te drukken.
+[YESTS_PASSWORDS_DONT_MATCH]
+De opgegeven wachtwoorden komen niet overeen. Voor ze opnieuw in a.u.b.
+[YESTS_UNABLE_TO_CONNECT]
+Kan geen verbinding maken. Waarschijnlijk werkt de YOG server momenteel niet. Probeer later eens opnieuw.
+[yog block command help]
+/block <gebruikersnaam>    Geef dit in en je ziet de berichten van deze speler niet meer.
+[yog block command player %0 already blocked]
+Je hebt %0 al geblokkeerd!
+[yog block command player %0 blocked]
+%0 geblokkeerd.
+[yog block command player %0 not found]
+Speler %0 bestaat niet!
+[yog command header]
+Dit zijn momenteel de mogelijke YOG commandos:
+[yog command unknown]
+Ongeldig commando
+[yog help command help]
+/help    Toont dit bericht
+[yog]
+Ysagoon Online Gaming
+[you have lost]
+Je hebt verloren!
+[you have won]
+Je hebt gewonnen!
+[You where kicked from the game]
+Je werd uit het spel geschopt door de host!
+[Your %0 are under attack]
+Je %0 worden aangevallen
+[Your IP address was temporarily banned]
+Dit IP-adres werd tijdelijk verbannen. Gelieve te wachten tot dit IP-adres weer toegestaan is of neem contact op met de beheerders.
+[Your unit got converted to %0's team]
+Een van jouw globs is overgelopen naar %0's team
+[Your username was banned]
+Uw username werd verbannen. Neem contact op met de beheerders om dit te veranderen.
