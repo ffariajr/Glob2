@@ -20,27 +20,31 @@ If you got the source from mercurial, read README.hg first.
 This fork is in the repository of a CS student in New Jersey, USA.  I am currently a Junior and I will not be planning on spending full time hours to work on this.  However, I love this game and I would like to continue its development.  These are a few ideas I came up with in one sitting.  I do not think I will be able to implement all of these.  I will try to prioritize bug and issue fixing before I work on any of these, however, I may get bored and work on these for fun.
 
 Thanks
+
 Fernando
 
 ## Features Id love to be able to add: ##
--Set war/clearing/exploration flags invisible/visible and assign each/some/all to a custom command.
--Improve/work on job prority and job selection by workers.
--Fix the unit looping bug
--After successful or unsuccessul exit of any upgrade building, unit is hungry.
--Add ability to exit buildings before time finish - inns and hospitals exit with partial progress, others exit immediatly with no effect.
--Unit avoides water if possible if running is faster than swimming.  Unit prefers swimming if possible if swimming is faster than running.
--Swarm destruction causes previous swam location to be replaced with 8 warriors and 1 worker.
--Ability to self-destruct swarm.
--Add configurable warrior tactics to overall warriors and war flag override - chase enemies, ignore injured enemies, ignore enemy workers, heal sooner, ignore enemy warriors, prioritize enemy turrets first.
--Guerilla Attack Flag Option - warrior assignment slots decrease when warriors leave war zone.
--Clearing Area No Waste - Resources in a clearing area are prioritized for harvest instead of thrown out.
--Code Red - workers avoid hospitals, workers exit hospitals, explorers exit hospitals and inns, workers only assigned to swarm, turrets, walls, and repair, all upgrades cancelled, warriors exit all buildings except for hospitals, all war flags made invisible, war flags set on swarm, swarm only produces warriors, workers avoid upgrading.
--Building capacity changes in accordance with building health. Units will exit if over capacity.  75% capacity at 90% building health.  50% capacity at 75% building health.  25% capacity at 55% building health.  10% capacity at 30% building health.  Units stil inside (10% of total capacity) die if building destroyed.  Units to exit first will be units with least progress.  Units will leave with decreased health proportionate to original health and amount of damage the building took before unit exited.
--Workers will ignore jobs too far away.
--Settlement Flag - A fourth flag that attracts a configurable amount of both workers and warriors to a location, and unassigns units after a configurable amount of time.
--Summary commands - 6 custom and renamable commands in GUI.  Clicking a custom command will automagically set the unit assignments for all/some/any buildings to preset and/or customizable values.  It can also set all/some/any war/clearing/exploration flag to invisible/visible.  It can also modify Swarm unit creation settings.  It can also set warrior fighting tactics.  It can set building work/upgrade/repair priorities.  It can set job choice preference to prioritize self-upgrades, self-healing, working based on current level.
--Unit deaths leave body on square.  Square remains traversible, but resources cannot grow.
--Morale - Morale affects feeding/healing/upgrading speed.  If possible morale affects unit move speed, task assignment lag. Unit morale is lowered if too many deaths nearby.  Unit morale is raised if many kills nearby.  Morale is inversely proportionate to individual hunger.  Unit morale is proportionate to marketplace stock when close to market.  Unit morale is decreased if close to undiscovered area.  Unit morale is increased when map area is discovered.  Unit morale is inversely proportionate to current building worker deficit.  Unit morale is proportionate to free time.  Unit morale is proportionate to friendly warrior sightings.  Morale is inversely proportionate to dead body count.  Morale is affected through proximity to morale affecting event or friendly agent.  When two agents on the same team are close, the morale for both becomes the average of the sum of each morale.  Morale affacting events and allied agents modify morale 50% less.  When an event is close to an agent, the morale modifier of the event affects the unit's morale in inverse proportion to the difference between the morale event and the unit's morale. (bad events cause less upset to happy units than sad units and vice versa).  Code Red causes instant universal morale decrease.  Unit morale is proportionate to inn food quantity, swarm sightings, hostpital sightings, food square sightings, school sightings, racetrack and swimming pool sightings.  Upgraded units have higher morale capacity.  Upgrading, feeding, finishing jobs, affect morale positively.
+
+01. Set war/clearing/exploration flags invisible/visible and assign each/some/all to a custom command.
+02. Improve/work on job prority and job selection by workers.
+03. Fix the unit looping bug
+04. After successful or unsuccessul exit of any upgrade building, unit is hungry.
+05. Add ability to exit buildings before time finish - inns and hospitals exit with partial progress, others exit immediatly with no effect.
+06. Unit avoides water if possible if running is faster than swimming.  Unit prefers swimming if possible if swimming is faster than running.
+07. Swarm destruction causes previous swam location to be replaced with 8 warriors and 1 worker.
+08. Ability to self-destruct swarm.
+09. Add configurable warrior tactics to overall warriors and war flag override - chase enemies, ignore injured enemies, ignore enemy workers, heal sooner, ignore enemy warriors, prioritize enemy turrets first.
+10. Guerilla Attack Flag Option - warrior assignment slots decrease when warriors leave war zone.
+11. Clearing Area No Waste - Resources in a clearing area are prioritized for harvest instead of thrown out.
+12. Code Red - workers avoid hospitals, workers exit hospitals, explorers exit hospitals and inns, workers only assigned to swarm, turrets, walls, and repair, all upgrades cancelled, warriors exit all buildings except for hospitals, all war flags made invisible, war flags set on swarm, swarm only produces warriors, workers avoid upgrading.
+13. Building capacity changes in accordance with building health. Units will exit if over capacity.  75% capacity at 90% building health.  50% capacity at 75% building health.  25% capacity at 55% building health.  10% capacity at 30% building health.  Units stil inside (10% of total capacity) die if building destroyed.  Units to exit first will be units with least progress.  Units will leave with decreased health proportionate to original health and amount of damage the building took before unit exited.
+14. Workers will ignore jobs too far away.
+15. Settlement Flag - A fourth flag that attracts a configurable amount of both workers and warriors to a location, and unassigns units after a configurable amount of time.
+16. Summary commands - 6 custom and renamable commands in GUI.  Clicking a custom command will automagically set the unit assignments for all/some/any buildings to preset and/or customizable values.  It can also set all/some/any war/clearing/exploration flag to invisible/visible.  It can also modify Swarm unit creation settings.  It can also set warrior fighting tactics.  It can set building work/upgrade/repair priorities.  It can set job choice preference to prioritize self-upgrades, self-healing, working based on current level.
+17. Unit deaths leave body on square.  Square remains traversible, but resources cannot grow.
+18. Morale - Morale affects feeding/healing/upgrading speed.  If possible morale affects unit move speed, task assignment lag. Unit morale is lowered if too many deaths nearby.  Unit morale is raised if many kills nearby.  Morale is inversely proportionate to individual hunger.  Unit morale is proportionate to marketplace stock when close to market.  Unit morale is decreased if close to undiscovered area.  Unit morale is increased when map area is discovered.  Unit morale is inversely proportionate to current building worker deficit.  Unit morale is proportionate to free time.  Unit morale is proportionate to friendly warrior sightings.  Morale is inversely proportionate to dead body count.  Morale is affected through proximity to morale affecting event or friendly agent.  When two agents on the same team are close, the morale for both becomes the average of the sum of each morale.  Morale affacting events and allied agents modify morale 50% less.  When an event is close to an agent, the morale modifier of the event affects the unit's morale in inverse proportion to the difference between the morale event and the unit's morale. (bad events cause less upset to happy units than sad units and vice versa).  Code Red causes instant universal morale decrease.  Unit morale is proportionate to inn food quantity, swarm sightings, hostpital sightings, food square sightings, school sightings, racetrack and swimming pool sightings.  Upgraded units have higher morale capacity.  Upgrading, feeding, finishing jobs, affect morale positively.
+
+
 
 
 ### GNU and UNIX ###
